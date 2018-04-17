@@ -166,7 +166,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": false,
             "animText1": "RELIABLE",
             "animText2": "RESPONSIVE",
