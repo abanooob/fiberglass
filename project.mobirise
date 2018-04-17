@@ -350,7 +350,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-6"
+          "_anchor": "footer1-6",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_params": {
@@ -639,7 +644,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-13"
+          "_anchor": "footer1-13",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         }
       ]
     },
@@ -811,7 +821,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-z"
+          "_anchor": "footer1-z",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         }
       ]
     },
@@ -983,7 +998,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-r"
+          "_anchor": "footer1-r",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         }
       ]
     },
@@ -1116,7 +1136,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-9"
+          "_anchor": "footer1-9",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_params": {
@@ -1460,7 +1485,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-c"
+          "_anchor": "footer1-c",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_params": {
@@ -1470,7 +1500,7 @@
               "state": "ok",
               "stateDetails": ""
             },
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
@@ -1650,7 +1680,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-17"
+          "_anchor": "footer1-17",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         }
       ]
     },
@@ -1780,7 +1815,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-19"
+          "_anchor": "footer1-19",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_params": {
