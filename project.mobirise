@@ -384,9 +384,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/tanks-400x260.png",
-              "link": "",
+              "link": "tanks.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -441,9 +442,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/untitled-6-400x260.png",
-              "link": "",
+              "link": "boats.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -499,9 +501,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/architecture-400x260.png",
-              "link": "",
+              "link": "architecture.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -556,9 +559,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/field-services-400x260.png",
-              "link": "",
+              "link": "field.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
