@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-17_1016",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1184,7 +1184,7 @@
             "bgText": "Contact Us",
             "bgTextStyle": "Oswald",
             "bgTextColor": "#ffffff",
-            "bgTextSize": "200",
+            "bgTextSize": "150",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
