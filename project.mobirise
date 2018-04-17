@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-17_1016",
-    "currentPage": "services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -141,26 +141,6 @@
           ],
           "_name": "menu",
           "_anchor": "menu-0"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#990000",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "® Copyright 2018. Fiberglass Unlimited Inc. All Rights Reserved.<br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-3"
         },
         {
           "_params": {
