@@ -498,7 +498,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-6-400x260.png",
+              "src": "@PROJECT_PATH@/assets/images/architecture-400x260.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -555,7 +555,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-6-400x260.png",
+              "src": "@PROJECT_PATH@/assets/images/field-services-400x260.png",
               "link": "",
               "alt": "",
               "title": ""
