@@ -461,16 +461,16 @@
           },
           "title1": "",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Whether you are looking at above or below ground tank systems, you need to rely on a company who has the experience, skills, and competence to do the job right.\n<br><br>From installation to repair, we can make sure your systems have the highest integrity and reliability.",
+          "caption1": "Whether you are looking at above or below ground tank systems, you need to rely on a company who has the <b>experience, skills, and competence</b> to do the job right.\n<br>",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "There is virtually no damage to a fiberglass vessel that can't be repaired and made even stronger than the original product. <br><br>Fiberglass Unlimited has decades of experience in fiberglass hull repair for both private and commercial vessels.\n<br>",
+          "caption2": "There is <b>virtually no damage</b> to a fiberglass vessel that can't be repaired and made even <b>stronger </b>than the original product. <br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "One of the benefits in using fiberglass in the construction of architectural components is the ease of repair for damaged items. <br><br>Whether the piece is damaged in transit, from inclimate weather conditions, or simply age, Fiberglass Unlimited can bring it back to a like-new condition.\n<br>",
+          "caption3": "Fiberglass Reinforced Polymer (FRP) is durable and low maintenance.&nbsp;Copulas, domes, cornices, and steeples are only some of the examples of fiberglass in use.<br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "In addition to the installation and repair of fiberglass, Fiberglass Unlimited is also able to provide:<br><br><b>Testing &amp; Recertification Services</b><br>Tank Collars, Flanges, and Anchors<br><b>Ventillation and Piping Systems</b><br>Safety Systems",
+          "caption4": "<b>Testing &amp; Recertification</b><br>Tank Collars, Flanges, and Anchors<br><b>Ventillation and Piping Systems</b><br>Safety Systems",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -513,7 +513,7 @@
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#990000",
-            "bgText": "Services",
+            "bgText": "Tanks",
             "bgTextStyle": "Oswald",
             "bgTextColor": "#ffffff",
             "bgTextSize": "150",
@@ -660,119 +660,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-13"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanks-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-6-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/architecture-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/field-services-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Whether you are looking at above or below ground tank systems, you need to rely on a company who has the experience, skills, and competence to do the job right.\n<br><br>From installation to repair, we can make sure your systems have the highest integrity and reliability.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "There is virtually no damage to a fiberglass vessel that can't be repaired and made even stronger than the original product. <br><br>Fiberglass Unlimited has decades of experience in fiberglass hull repair for both private and commercial vessels.\n<br>",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "One of the benefits in using fiberglass in the construction of architectural components is the ease of repair for damaged items. <br><br>Whether the piece is damaged in transit, from inclimate weather conditions, or simply age, Fiberglass Unlimited can bring it back to a like-new condition.\n<br>",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "In addition to the installation and repair of fiberglass, Fiberglass Unlimited is also able to provide:<br><br><b>Testing &amp; Recertification Services</b><br>Tank Collars, Flanges, and Anchors<br><b>Ventillation and Piping Systems</b><br>Safety Systems",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-14"
         }
       ]
     },
@@ -798,7 +685,7 @@
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#990000",
-            "bgText": "Services",
+            "bgText": "Boats",
             "bgTextStyle": "Oswald",
             "bgTextColor": "#ffffff",
             "bgTextSize": "150",
@@ -945,119 +832,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-z"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanks-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-6-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/architecture-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/field-services-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Whether you are looking at above or below ground tank systems, you need to rely on a company who has the experience, skills, and competence to do the job right.\n<br><br>From installation to repair, we can make sure your systems have the highest integrity and reliability.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "There is virtually no damage to a fiberglass vessel that can't be repaired and made even stronger than the original product. <br><br>Fiberglass Unlimited has decades of experience in fiberglass hull repair for both private and commercial vessels.\n<br>",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "One of the benefits in using fiberglass in the construction of architectural components is the ease of repair for damaged items. <br><br>Whether the piece is damaged in transit, from inclimate weather conditions, or simply age, Fiberglass Unlimited can bring it back to a like-new condition.\n<br>",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "In addition to the installation and repair of fiberglass, Fiberglass Unlimited is also able to provide:<br><br><b>Testing &amp; Recertification Services</b><br>Tank Collars, Flanges, and Anchors<br><b>Ventillation and Piping Systems</b><br>Safety Systems",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-10"
         }
       ]
     },
@@ -1083,7 +857,7 @@
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#990000",
-            "bgText": "Services",
+            "bgText": "Architecture",
             "bgTextStyle": "Oswald",
             "bgTextColor": "#ffffff",
             "bgTextSize": "150",
@@ -1230,119 +1004,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-v"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanks-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-6-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/architecture-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/field-services-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Whether you are looking at above or below ground tank systems, you need to rely on a company who has the experience, skills, and competence to do the job right.\n<br><br>From installation to repair, we can make sure your systems have the highest integrity and reliability.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "There is virtually no damage to a fiberglass vessel that can't be repaired and made even stronger than the original product. <br><br>Fiberglass Unlimited has decades of experience in fiberglass hull repair for both private and commercial vessels.\n<br>",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "One of the benefits in using fiberglass in the construction of architectural components is the ease of repair for damaged items. <br><br>Whether the piece is damaged in transit, from inclimate weather conditions, or simply age, Fiberglass Unlimited can bring it back to a like-new condition.\n<br>",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "In addition to the installation and repair of fiberglass, Fiberglass Unlimited is also able to provide:<br><br><b>Testing &amp; Recertification Services</b><br>Tank Collars, Flanges, and Anchors<br><b>Ventillation and Piping Systems</b><br>Safety Systems",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-w"
         }
       ]
     },
@@ -1368,7 +1029,7 @@
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#990000",
-            "bgText": "Services",
+            "bgText": "Field Services",
             "bgTextStyle": "Oswald",
             "bgTextColor": "#ffffff",
             "bgTextSize": "150",
@@ -1515,121 +1176,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-r"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanks-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "page7.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-6-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "page6.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/architecture-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/field-services-400x260.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Whether you are looking at above or below ground tank systems, you need to rely on a company who has the experience, skills, and competence to do the job right.\n<br><br>From installation to repair, we can make sure your systems have the highest integrity and reliability.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "There is virtually no damage to a fiberglass vessel that can't be repaired and made even stronger than the original product. <br><br>Fiberglass Unlimited has decades of experience in fiberglass hull repair for both private and commercial vessels.\n<br>",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "One of the benefits in using fiberglass in the construction of architectural components is the ease of repair for damaged items. <br><br>Whether the piece is damaged in transit, from inclimate weather conditions, or simply age, Fiberglass Unlimited can bring it back to a like-new condition.\n<br>",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "In addition to the installation and repair of fiberglass, Fiberglass Unlimited is also able to provide:<br><br><b>Testing &amp; Recertification Services</b><br>Tank Collars, Flanges, and Anchors<br><b>Ventillation and Piping Systems</b><br>Safety Systems",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-s"
         }
       ]
     },
