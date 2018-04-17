@@ -715,11 +715,11 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #menu-0 .link {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.245rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -769,6 +769,9 @@ h6,
 }
 
 
+#extMsg-box4-k SPAN {
+  font-size: 100px;
+}
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -790,11 +793,11 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #menu-4 .link {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 #menu-4 .dropdown-item,
 #menu-4 .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.245rem;
 }
 #menu-4 .link:hover,
 #menu-4 .dropdown-item:hover,
@@ -911,8 +914,14 @@ h6,
 #menu-7 .btn {
   font-size: 14px;
 }
+#extMsg-box4-l SPAN {
+  font-size: 100px;
+}
 
 
+#extMsg-box4-m SPAN {
+  font-size: 100px;
+}
 #features4-j .card-subtitle {
   color: #bcbcbc;
 }
@@ -941,11 +950,11 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #menu-a .link {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 #menu-a .dropdown-item,
 #menu-a .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.245rem;
 }
 #menu-a .link:hover,
 #menu-a .dropdown-item:hover,
