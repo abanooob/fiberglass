@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-17_1016",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1663,7 +1663,7 @@
               "stateDetails": ""
             },
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
           "_tags": [
