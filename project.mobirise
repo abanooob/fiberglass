@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-17_1016",
-    "currentPage": "contact.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1131,7 +1131,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -1172,7 +1172,7 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "title": "Who we are",
           "text": "Serving the specilized fiberglass needs California, Oregon, and Nevada for 20 years, Fiberglass Unlimited has developed a reputation unsurpassed in the service industry. While many companies have come and gone, we have remained a leader in fiberglass.\n<br>\n<br>Fiberglass Unlimited is responsive to your needs. We offer fast service, allowing you to schedule your maintenance or repair tasks to meet your requirements. <br><br>Our fully equipped field service trucks are at your service.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1182,6 +1182,10 @@
           "_anchor": "msg-box5-1w",
           "_styles": {
             "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "H3": {
               "color": "#ffffff",
               "text-align": "center"
             }
@@ -1458,7 +1462,7 @@
           "caption1": "<b>Phone: (650)595-0616</b><br><b>Fax:&nbsp;(650)595-0616\n</b><br><b>Schulzc1@aol.com</b><br>",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "22<br><b>324 22nd Ave.\n<br>San Mateo, CA 94403</b><br>",
+          "caption2": "<b>324 22nd Ave.\n<br>San Mateo, CA 94403</b><br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<b>Mon-Friday<br>9:00am-5:00pm</b><br><b>Sat</b><br><b>10am-2pm</b>",
@@ -1618,7 +1622,7 @@
               "stateDetails": ""
             },
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
           "_tags": [
