@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-17_1016",
-    "currentPage": "about.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -335,7 +335,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
@@ -631,7 +631,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
@@ -863,7 +863,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
@@ -1068,7 +1068,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
@@ -1455,16 +1455,16 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Phone:(650)595-0616\n<br>Schulzc1@aol.com<br>",
+          "caption1": "<b>Phone: (650)595-0616</b><br><b>Fax:&nbsp;(650)595-0616\n</b><br><b>Schulzc1@aol.com</b><br>",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "324 22nd Ave.\n<br>San Mateo, CA 94403<br>",
+          "caption2": "22<br><b>324 22nd Ave.\n<br>San Mateo, CA 94403</b><br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Mon-Friday<br>9:00am-5:00pm",
+          "caption3": "<b>Mon-Friday<br>9:00am-5:00pm</b><br><b>Sat</b><br><b>10am-2pm</b>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "24 Hour Emergency Service Available<br>",
+          "caption4": "<b>If you have a fiberglass emergency and need help ASAP,</b><b><br></b><b>let us know!<br></b><br><b>24 Hour Emergency Service Available</b><br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1587,7 +1587,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
@@ -1740,7 +1740,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
