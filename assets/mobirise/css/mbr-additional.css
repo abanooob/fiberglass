@@ -848,15 +848,11 @@ h6,
 #msg-box5-1c P {
   text-align: center;
 }
-#msg-box5-1d P {
+#msg-box5-1f P {
   color: #ffffff;
   text-align: center;
 }
 #msg-box5-1e P {
-  text-align: center;
-}
-#msg-box5-1f P {
-  color: #ffffff;
   text-align: center;
 }
 
@@ -937,83 +933,9 @@ h6,
 #footer1-13 P {
   font-size: 14px;
 }
-
-
-#extMsg-box4-x SPAN {
-  font-size: 100px;
-}
-#menu-y .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-y .navbar-caption {
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
-  font-size: 30px;
-}
-#menu-y .navbar-toggler {
-  color: #ffffff;
-}
-#menu-y .close-icon::before,
-#menu-y .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-y .link,
-#menu-y .dropdown-item {
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
-}
-#menu-y .link {
-  font-size: 1.15rem;
-}
-#menu-y .dropdown-item,
-#menu-y .nav-dropdown-sm .link {
-  font-size: 1.245rem;
-}
-#menu-y .link:hover,
-#menu-y .dropdown-item:hover,
-#menu-y .link:focus,
-#menu-y .dropdown-item:focus {
-  color: #ffffff;
-}
-#menu-y .link[aria-expanded="true"],
-#menu-y .dropdown-menu {
-  background: #660000;
-}
-#menu-y .nav-dropdown-sm .link:focus,
-#menu-y .nav-dropdown-sm .link:hover,
-#menu-y .nav-dropdown-sm .dropdown-item:focus,
-#menu-y .nav-dropdown-sm .dropdown-item:hover {
-  background: #8a0000!important;
-}
-#menu-y .navbar,
-#menu-y .nav-dropdown-sm,
-#menu-y .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-y .nav-dropdown-sm .dropdown-menu {
-  background: #990000;
-}
-#menu-y .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-y .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-y .bg-color.transparent.opened .link:hover,
-#menu-y .bg-color.transparent.opened .link:focus {
-  color: #ffffff;
-}
-#menu-y .link[aria-expanded="true"],
-#menu-y .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
-}
-#menu-y A {
-  font-size: 14px;
-}
-#menu-y .btn {
-  font-size: 18px;
-}
-#footer1-z P {
-  font-size: 14px;
+#msg-box7-24 .mbr-section-title,
+#msg-box7-24 .lead p {
+  color: #fff;
 }
 
 
