@@ -1124,7 +1124,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "collapseAll": false,
             "tabs": "6",
             "imageSize": "29",
@@ -1143,7 +1143,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "Accordion FAQ",
+          "title": "<b>Field Services</b>",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_33\" data-core=\"\" href=\"#collapseOne_33\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span><b>Installation</b></a>",
           "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_33\" data-core=\"\" href=\"#collapseTwo_33\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"><b>Repair</b></a>",
           "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_33\" data-core=\"\" href=\"#collapseThree_33\" aria-expanded=\"false\" aria-controls=\"collapseThree\"><b>Testing &amp; Recertification</b></a>",
