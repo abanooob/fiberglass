@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 70,
+    "uniqCompNum": 75,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png"
   },
@@ -1410,7 +1410,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Serving the specilized fiberglass needs California, Oregon, and Nevada for 20 years, Fiberglass Unlimited has developed a reputation unsurpassed in the service industry. In that time, too many companies have come and gone. Fiberglass Unlimited has remained on the top of the service industry by making reliability a cornerstone of our organization.\n<br>\n<br>Fiberglass Unlimited is responsive to your needs. We offer fast service, allowing you to schedule your maintenance or repair tasks to meet your requirements. Unlike many competitors, we will be where we say we will and do the job right the first time. Our fully equipped field service trucks are at your service.",
+          "text": "Serving the specilized fiberglass needs California, Oregon, and Nevada for 20 years, Fiberglass Unlimited has developed a reputation unsurpassed in the service industry. While many companies have come and gone, we have remained a leader in fiberglass.\n<br>\n<br>Fiberglass Unlimited is responsive to your needs. We offer fast service, allowing you to schedule your maintenance or repair tasks to meet your requirements. <br><br>Our fully equipped field service trucks are at your service.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1419,19 +1419,21 @@
           "_anchor": "msg-box5-1w",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           }
         },
         {
+          "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": false,
+            "fullWidth": true,
             "spacing": 0,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "fff",
             "showText": false,
             "filter": false,
             "images": [
@@ -1526,13 +1528,13 @@
               }
             ]
           },
-          "articleLayout": false,
-          "allItem": "All",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1x"
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-20"
         }
       ]
     },
