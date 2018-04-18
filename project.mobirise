@@ -335,7 +335,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
@@ -460,7 +460,7 @@
             }
           },
           "title": "",
-          "text": "Testing &amp; Recertification\n<br>Tank Collars, Flanges, and Anchors\n<br>Ventillation and Piping Systems\n<br>Safety Systems",
+          "text": "Installation &amp; Repair<br>Testing &amp; Recertification\n<br>Tank Collars, Flanges, &amp; Anchors\n<br>Ventillation &amp; Piping Systems\n<br>Safety Systems",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -629,7 +629,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
@@ -861,7 +861,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
@@ -1066,7 +1066,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
@@ -1585,7 +1585,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
@@ -1738,7 +1738,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logolong4-684x332.png",
             "parallax": true,
