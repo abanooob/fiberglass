@@ -411,7 +411,8 @@
           "_anchor": "msg-box5-1c",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "24px"
             }
           }
         },
@@ -470,7 +471,8 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "24px"
             }
           }
         }
