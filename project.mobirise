@@ -1134,7 +1134,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
