@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 63,
+    "uniqCompNum": 64,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png"
   },
@@ -1124,30 +1124,43 @@
         },
         {
           "_params": {
-            "showTitles": true,
-            "showText": true,
+            "showTitle": true,
+            "collapseAll": false,
             "tabs": "5",
-            "imageSize": "40",
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "imageSize": "26",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extTabs2_bg.jpg",
-            "parallax": true,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#f7f7f7",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.2
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
           },
+          "title": "<b>Field Services</b>",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_122\" data-core=\"\" href=\"#collapseOne_122\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span><b>Installation &amp; Repair</b></a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_122\" data-core=\"\" href=\"#collapseTwo_122\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"><b>Testing &amp; Recertification</b></a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_122\" data-core=\"\" href=\"#collapseThree_122\" aria-expanded=\"false\" aria-controls=\"collapseThree\"><b>Flanges, Collars, &amp; Anchors</b></a>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_122\" data-core=\"\" href=\"#collapseFour_122\" aria-expanded=\"true\" aria-controls=\"collapseFour\"><b>Ventilation &amp; Piping</b></a>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_122\" data-core=\"\" href=\"#collapseFive_122\" aria-expanded=\"true\" aria-controls=\"collapseFive\"><b>Safety Systems</b></a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>Whether you are looking at above or below ground tank systems, you need to rely on a company who has the experience, skills, and competence to do the job right.</p><br><p> \n</p><p>\n</p><p>From installation to repair, we can make sure your systems have the highest integrity and reliability. \n</p><p>\n</p><p>Repairing fiberglass tanks is an exact science. It takes years of experience, not only in handling fiberglass and its application, but a great knowledge of the unique properties of tanks and containment systems. Our technicians have the knowledge and experience to repair damaged tanks.</p><br><p> \n</p><p>\n</p><p>We also specialize in relining tanks, extending your product's life span years into the future at a fraction of the cost of replacement.</p><br><p>\n</p><p>\n</p><p><b>Fiberglass Unlimited offers 24-hour emergency service for all repairs. Call us for details.</b></p>",
+          "text2": "<p>The West Coast has some of the strictest environmental regulations in the country. Don't get caught in the liability trap because you let your testing slip. Use a company with experience in testing and recertification.</p><br><p> \n</p><p>\n</p><p>Let Fiberglass Unlimited be your source for all of your tank testing and recertification needs.</p>",
+          "text3": "<p>A system is only as strong as it's weakest component. That is why you need to make sure your accessories are done right the first time.</p><br><p> \n</p><p>\n</p><p><b>Flanges</b></p><p>Flanges must have the highest integrity and be constructed to exact specifications in order for them to provide long, reliable service.</p><br><p> \n</p><p>\n</p><p><b>Collars</b></p><p>Secondary containment collars provide a secure containment area for spilled liquids and an ideal location for leak-monitoring sensors.</p><br><p> \n</p><p>\n</p><p><b>Anchors</b></p><p>Fiberglass Unlimited can provide the correct anchoring system for your tank application. These anchoring systems are essential to prevent tank flotation that can result in damage and possibly injury.&nbsp;</p>",
+          "text4": "<p>Tank systems require adequate ventilation and piping systems, by law ( § 56.50-85) and necessity. We can provide the proper materials to make your tank last as long as possible, as safely as possible.</p><br><p> \n</p><p>\n</p><p>We provide solutions for valves, vents, overflow protection, and more.&nbsp;</p>",
+          "text5": "<p>\n </p><div><span style=\"font-size: 1rem;\">Fiberglass Unlimited can design and install custom ladders, scaffolding, and safety systems around your work site to protect your team.</span></div><br><div><span style=\"font-size: 1rem;\">On site safety can directly reduce a significant amount of long term costs.</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div>\n</div><div>Let us know how we can keep your site safe!</div>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>",
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/field-services-400x260.png",
+              "src": "@PROJECT_PATH@/assets/images/big-tank-371x759.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1164,28 +1177,23 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH FORM",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND</a>",
-          "title1": "<b>Installation &amp; Repair</b>",
-          "title2": "<b>Testing &amp; Recertification</b>",
-          "title3": "<b>Flanges, Collars, &amp; Anchors</b>",
-          "title4": "<b>Ventilation &amp; Piping</b>",
-          "title5": "<b>Safety Systems</b>",
-          "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-1q\" aria-expanded=\"false\"><b>Installation &amp; Repair</b></a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-1q\" aria-expanded=\"false\"><b>Testing &amp; Recertification</b></a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-1q\" aria-expanded=\"false\"><b>Flanges, Collars, &amp; Anchors</b></a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-1q\" aria-expanded=\"false\"><b>Ventilation &amp; Piping</b></a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-1q\" aria-expanded=\"true\"><b>Safety Systems</b></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-1q\">Beautiful</a></li>",
-          "text1": "Whether you are looking at above or below ground tank systems, you need to rely on a company who has the experience, skills, and competence to do the job right. \n<br>\n<br>From installation to repair, we can make sure your systems have the highest integrity and reliability. \n<br>\n<br>Repairing fiberglass tanks is an exact science. It takes years of experience, not only in handling fiberglass and its application, but a great knowledge of the unique properties of tanks and containment systems. Our technicians have the knowledge and experience to repair damaged tanks. \n<br>\n<br>We also specialize in relining tanks, extending your product's life span years into the future at a fraction of the cost of replacement.<br><br><b>Fiberglass Unlimited offers 24-hour emergency service for all repairs. Call us for details.</b><br>",
-          "text2": "The West Coast has some of the strictest environmental regulations in the country. Don't get caught in the liability trap because you let your testing slip. Use a company with experience in testing and recertification. \n<br>\n<br>Let Fiberglass Unlimited be your source for all of your tank testing and recertification needs.",
-          "text3": "A system is only as strong as it's weakest component. That is why you need to make sure your accessories are done right the first time.\n<br><br><b>Flanges \n</b><br>Flanges must have the highest integrity and be constructed to exact specifications in order for them to provide long, reliable service.&nbsp;<br><br><b>Collars\n</b><br>Secondary containment collars provide a secure containment area for spilled liquids and an ideal location for leak-monitoring sensors.\n<br>\n<br><b>Anchors</b>\n<br>Fiberglass Unlimited can provide the correct anchoring system for your tank application. These anchoring systems are essential to prevent tank flotation that can result in damage and possibly injury.\n<br>",
-          "text4": "Tank systems require adequate ventilation and piping systems, by law ( § 56.50-85) and necessity. We can provide the proper materials to make your tank last as long as possible, as safely as possible. \n<br>\n<br>We provide solutions for valves, vents, overflow protection, and more.&nbsp;",
-          "text5": "<b>Safety is always our #1 priority.</b><br><br>Fiberglass Unlimited can design and install custom ladders, scaffolding, and safety systems around your work site to protect your team.&nbsp;<br><br>Let us know how we can keep your site safe!",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extTabs2",
-          "_anchor": "extTabs2-1q"
+          "_name": "extAccordion3",
+          "_anchor": "extAccordion3-1r",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
