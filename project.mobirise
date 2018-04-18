@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 77,
+    "uniqCompNum": 78,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png"
   },
@@ -118,7 +118,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Who We Are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Our Founder</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -308,7 +308,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Who We Are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Our Founder</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -604,7 +604,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Who We Are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Our Founder</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -836,7 +836,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Who We Are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Our Founder</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1041,7 +1041,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Who We Are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Our Founder</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1191,10 +1191,10 @@
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": "0",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "filterBgColor": false,
             "bgColor": "fff",
             "showText": false,
@@ -1210,19 +1210,18 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/sexychris1-530x563.png",
-                "thumb": "@PROJECT_PATH@/assets/images/sexychris1-530x563-530x563.png",
+                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Type caption here"
               },
               {
                 "tags": "Creative",
@@ -1240,12 +1239,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mmchris-1750x2500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mmchris-1750x2500-800x1143.jpg",
+                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Type caption here"
               },
               {
                 "tags": "Awesome",
@@ -1263,24 +1261,22 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/baby-png17965-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/baby-png17965-1920x1080-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Type caption here"
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/wahchris-519x518.png",
-                "thumb": "@PROJECT_PATH@/assets/images/wahchris-519x518-519x518.png",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Type caption here"
               },
               {
                 "tags": "Animated",
@@ -1300,8 +1296,8 @@
           ],
           "articleLayout": false,
           "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-20"
+          "_name": "gallery4",
+          "_anchor": "gallery4-25"
         }
       ]
     },
@@ -1564,7 +1560,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Who We Are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Our Founder</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1717,7 +1713,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Who We Are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">Our Founder</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1792,7 +1788,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
