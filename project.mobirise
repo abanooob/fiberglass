@@ -721,7 +721,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "55",
+            "imageSize": "49",
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
@@ -744,7 +744,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=YsVdqqAizDI",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
